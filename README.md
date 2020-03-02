@@ -66,3 +66,13 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+#### `This is where actuall steps for getting started with this project starts`
+
+npx create-react-app my-app-tuto
+cd my-app-tuto
+npm start
+
+The npm start will open default bowser with localhost:3000 
+
