@@ -25,7 +25,7 @@ class NavBar extends Component {
       <Menu inverted fixed="top">
         <Container>
           <Menu.Item as={NavLink} exact to="/" header>
-            <img src="assets/logo.png" alt="logo" width="150%" />
+            <img src="/assets/logo.png" alt="logo" width="150%" />
             Tuto
           </Menu.Item>
           <Menu.Item as={NavLink} to="/tuto" header>
