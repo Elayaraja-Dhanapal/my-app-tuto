@@ -4,7 +4,7 @@ import { Container } from "semantic-ui-react";
 import { Route } from "react-router-dom";
 import HomePage from "../features/home/HomePage/HomePage";
 import SettingsDashboard from "../features/user/Settings/SettingsDashboard";
-import { TutoDetails } from "../features/dashboard/Tuto/TutoDetails";
+import TutoDetails from "../features/tuto/TutoDashboard/TutoDetails";
 
 class App extends Component {
   render() {
